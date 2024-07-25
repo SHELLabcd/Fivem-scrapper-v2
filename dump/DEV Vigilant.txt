@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:e91ded5da5c43673275982de480780f8c265c08c", "discord:265215031619092481", "fivem:11594193", "license2:fad1ad0b1aba2db3fd2b15dab7cfd35d25c62cf5"], "name": "Leguedric", "ping": 16}

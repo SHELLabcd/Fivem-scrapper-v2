@@ -1,0 +1,3 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:818b709397f292f7c22ac6b5903749ec3725f3f5", "xbl:2535411510326731", "live:1055519236866301", "discord:1068615405440073838", "fivem:9603307", "license2:818b709397f292f7c22ac6b5903749ec3725f3f5"], "name": "Bendoo", "ping": 61}
+{"endpoint": "127.0.0.1:1234", "id": 2, "identifiers": ["license:98b2358cf84efeccb46932c9a7c4fae2d3f65283", "xbl:2535431006202854", "live:844424980787001", "discord:1099324019691507773", "fivem:12017587", "license2:98b2358cf84efeccb46932c9a7c4fae2d3f65283"], "name": "kylia", "ping": 86}
+{"endpoint": "127.0.0.1:1234", "id": 2, "identifiers": ["steam:1100001146c72a9", "license:69d2fc6ac0991a8d4523ae9af339865e53b84c2e", "discord:372869414275645440"], "name": "Reykito.exe", "ping": 46}

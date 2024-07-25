@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["steam:1100001186d0eea", "license:c045ac777b7208e9fc2a835fe047cef2c3e99c04", "xbl:2535432907149391", "live:1688853778583331", "discord:863507358457135144", "license2:3edfb9c00c123240e49f9121b3285fc0f2fab491"], "name": "ANTONIO ESPERANCO", "ping": 51}

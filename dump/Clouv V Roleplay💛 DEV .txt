@@ -1,0 +1,2 @@
+{"endpoint": "127.0.0.1:1234", "id": 4, "identifiers": ["steam:11000014a83a1b6", "license:b7bb8b9bb2e6fbfd02920350bb95517190e8ad64", "live:985154761481585", "discord:921841248229294130", "fivem:11706361", "license2:b7bb8b9bb2e6fbfd02920350bb95517190e8ad64"], "name": "XXXX", "ping": 32}
+{"endpoint": "127.0.0.1:1234", "id": 6, "identifiers": ["license:8572a576ea8151977b7c9d2f5cc197d9a4aa2579", "xbl:2535438394754407", "live:1759218801394385", "discord:948301201236176918", "fivem:3604622", "license2:f4c8952906d4fc648e56cd5314c8dd2ad3e681c4"], "name": "PC", "ping": 54}

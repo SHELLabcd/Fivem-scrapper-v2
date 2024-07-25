@@ -1,0 +1,2 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:bf1fa515b5119b913a973784760880e93eaf4afe", "license2:bf1fa515b5119b913a973784760880e93eaf4afe"], "name": "Ice Spice", "ping": 11}
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:057d977435dae8b20baa42b98372cb2c8c7e828f", "discord:903472010208870412", "license2:057d977435dae8b20baa42b98372cb2c8c7e828f"], "name": "Jujube", "ping": 10}

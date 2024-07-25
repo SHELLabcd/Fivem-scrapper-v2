@@ -1,0 +1,4 @@
+{"id": 0, "name": "Anon0", "ping": 0, "endpoint": "127.0.0.1:1234", "identifiers": []}
+{"id": 1, "name": "Anon1", "ping": 1, "endpoint": "127.0.0.1:1234", "identifiers": []}
+{"id": 2, "name": "Anon2", "ping": 2, "endpoint": "127.0.0.1:1234", "identifiers": []}
+{"id": 3, "name": "Anon3", "ping": 3, "endpoint": "127.0.0.1:1234", "identifiers": []}

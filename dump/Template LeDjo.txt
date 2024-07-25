@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:c6e64f7d6b1cd5f1a5193f84eec17c0b3461bb04", "xbl:2535471800354905", "live:985154111708945", "discord:868452608539521034", "fivem:9869724", "license2:c6e64f7d6b1cd5f1a5193f84eec17c0b3461bb04"], "name": "Djoxd", "ping": 10}

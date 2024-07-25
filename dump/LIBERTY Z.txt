@@ -1,0 +1,3 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:807196b4a140917c3f001bec959e2d9c407d7102", "discord:879534947684200529", "license2:807196b4a140917c3f001bec959e2d9c407d7102"], "name": "devtw0", "ping": 42}
+{"endpoint": "127.0.0.1:1234", "id": 2, "identifiers": ["license:f51998a8cf0ffb432570c310ffc093a32bc69a7d", "discord:1003324578917007452", "fivem:2237727", "license2:f51998a8cf0ffb432570c310ffc093a32bc69a7d"], "name": "loic", "ping": 51}
+{"endpoint": "127.0.0.1:1234", "id": 2, "identifiers": ["license:480962f300dae2717e0df2f79509db57b6d07c36", "xbl:2535411309225800", "live:1055519475926647", "discord:637402743656677396", "license2:480962f300dae2717e0df2f79509db57b6d07c36"], "name": "Kaïs Santos", "ping": 40}

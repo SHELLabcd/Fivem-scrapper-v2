@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["steam:11000014486cf51", "license:e3859dfb041e323af414c9233856ae6c68982e18", "xbl:2535448961446118", "live:914798486039645", "discord:905676330652278854", "fivem:6853032", "license2:e3859dfb041e323af414c9233856ae6c68982e18"], "name": "Ryan Miller", "ping": 87}

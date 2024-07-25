@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:c62f6ca19adb690a45e5931ed8be9c48f4ba4ebe", "xbl:2535454743301181", "live:914799414375294", "discord:875748600456552539", "fivem:7557417", "license2:c62f6ca19adb690a45e5931ed8be9c48f4ba4ebe"], "name": "FaZeV2", "ping": 72}

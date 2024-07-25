@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 3, "identifiers": ["steam:11000010ac5e46f", "license:59edd781ce1ecceb061ed70403b49d1b1fa778e2", "xbl:2535422195363046", "live:985154043205666", "discord:1113886222625034270", "license2:59edd781ce1ecceb061ed70403b49d1b1fa778e2"], "name": "Leny Morstein", "ping": 10}

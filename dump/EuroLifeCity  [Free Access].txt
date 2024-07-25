@@ -1,0 +1,2 @@
+{"endpoint": "127.0.0.1:1234", "id": 2, "identifiers": ["license:57aff41e70caa5f5759e891042a49462536cb365", "xbl:2535412988261087", "live:1899947106366083", "discord:154676050545213440", "fivem:98085", "license2:57aff41e70caa5f5759e891042a49462536cb365"], "name": "DriverD77_GANG", "ping": 45}
+{"endpoint": "127.0.0.1:1234", "id": 3, "identifiers": ["license:a335465aa5fcde1f428af73f6cfb7bd70aca455a", "xbl:2535466755426788", "live:1055519023876813", "discord:694998199378640896", "fivem:5220641", "license2:fe40b5b5109031d227643967d9d4a8681c42fbb2"], "name": "Némo ", "ping": 24}

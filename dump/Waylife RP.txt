@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["steam:11000014539e7b3", "license:bdff9f7b9366e8b1ac6df93fd209bf20648c2ad0", "xbl:2535406618953003", "live:844428873541641", "discord:975772392121045002", "fivem:7744322", "license2:bdff9f7b9366e8b1ac6df93fd209bf20648c2ad0"], "name": "Logan WHITE | Kayzo", "ping": 52}

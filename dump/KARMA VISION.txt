@@ -1,0 +1,2 @@
+{"endpoint": "127.0.0.1:1234", "id": 6, "identifiers": ["steam:11000014c65bc3e", "license:e54b0dd8731fd6a4b24ba3dd1e51fe0e93cb1a31", "discord:966420786971832331", "license2:e54b0dd8731fd6a4b24ba3dd1e51fe0e93cb1a31"], "name": "VDL", "ping": 36}
+{"endpoint": "127.0.0.1:1234", "id": 4, "identifiers": ["steam:110000102a6dc2c", "license:99c43e0803c242451aae0bc01f0a8be82fd9153c", "discord:885123564615925761", "license2:63d75d3f97311c6f8bce1e8280134448fd57a956"], "name": "N1NE.cfx", "ping": 37}

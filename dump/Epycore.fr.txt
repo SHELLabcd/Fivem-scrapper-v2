@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["steam:110000111bc4c75", "license:472fd07a0aa7c446faa09e123899ad8a4fad481a", "discord:261917119099174912", "fivem:2444241", "license2:472fd07a0aa7c446faa09e123899ad8a4fad481a"], "name": "Broce DeNata", "ping": 71}

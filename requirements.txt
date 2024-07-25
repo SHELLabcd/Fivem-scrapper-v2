@@ -1,0 +1,16 @@
+requests
+fake_useragent
+colorama
+fade
+uuid
+fake_useragent
+py-socket
+httpx
+pyotp
+psutil
+pypiwin32
+pycryptodome
+pyinstaller>=5.0
+PIL-tools
+aes
+win10toast

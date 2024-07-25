@@ -1,0 +1,2 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:8572a576ea8151977b7c9d2f5cc197d9a4aa2579", "xbl:2535438394754407", "live:1759218801394385", "discord:948301201236176918", "fivem:3604622", "license2:f4c8952906d4fc648e56cd5314c8dd2ad3e681c4"], "name": "PC", "ping": 62}
+{"endpoint": "127.0.0.1:1234", "id": 4, "identifiers": ["steam:11000014a2a2e5e", "license:5c9560dc56df522c9b0d25d6236d1e49fae843a8", "discord:878728973851426817", "license2:5c9560dc56df522c9b0d25d6236d1e49fae843a8"], "name": "SteelOkami", "ping": 82}

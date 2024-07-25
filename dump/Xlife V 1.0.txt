@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["steam:11000011aee8ecf", "license:718c54834f5fef7544339a8c92e6354e2ce77910", "xbl:2535451156165413", "live:985153990749422", "discord:509301920154779658", "license2:718c54834f5fef7544339a8c92e6354e2ce77910"], "name": "XenoBlack", "ping": 63}

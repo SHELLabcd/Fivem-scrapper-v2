@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["steam:11000010e33d41e", "license:a8b99244465ba0c246d9c8a888fb67cf3c456c4e", "live:1759218668975462", "discord:265525369686327315", "fivem:7532080", "license2:df822c2794212be10702c9b810fa728bbf055cd9"], "name": "Momo", "ping": 33}

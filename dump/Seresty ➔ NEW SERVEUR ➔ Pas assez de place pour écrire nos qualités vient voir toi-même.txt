@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 2, "identifiers": ["steam:11000014c8d3b89", "license:254bd608eea523ada10a01223ace1fe41bb37182", "license2:254bd608eea523ada10a01223ace1fe41bb37182"], "name": "Huniros", "ping": 10}

@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 2, "identifiers": ["steam:1100001092e5b71", "license:be99e688c6024cb33dd3ecdc1d18a3d3a736dbbb", "xbl:2535432914555548", "live:985153840469817", "discord:283690059129946112", "fivem:743562", "license2:be99e688c6024cb33dd3ecdc1d18a3d3a736dbbb"], "name": "ViperZek", "ping": 31}

@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 4, "identifiers": ["steam:110000153e857d6", "license:0f18da7db25481b80181b4f023b23a62346c3d2b", "xbl:2535469270537609", "live:1688854000481193", "discord:940398938211631144", "fivem:11775031", "license2:0f18da7db25481b80181b4f023b23a62346c3d2b"], "name": "Marco Polo", "ping": 28}
