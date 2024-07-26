@@ -1,2 +1,2 @@
-python automatic.py
+python automatic_original.py
 python main.py
