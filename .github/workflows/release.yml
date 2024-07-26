@@ -1,0 +1,26 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'  # Déclenche l'action lors de la création d'une nouvelle version avec un tag commençant par 'v'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Restore original automatic.py
+        run: echo 'print("Hello, world!")' > automatic.py  # Remplacez ce contenu par le contenu original de automatic.py
+
+      - name: Archive repository
+        run: zip -r release.zip .
+
+      - name: Upload release artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: release-zip
+          path: release.zip
